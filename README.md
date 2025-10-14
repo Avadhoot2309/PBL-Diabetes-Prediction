@@ -31,11 +31,7 @@ The objective of this project is to develop a **Diabetes Prediction Model** usin
 4. **Model Training** – Train the Random Forest model.  
 5. **Model Evaluation** – Check accuracy, generate confusion matrix and classification report.  
 6. **Visualization** – Display heatmap for confusion matrix and accuracy results.  
-
-## 📊 Output  
-- **Terminal Output Screenshot:** `model_output.png`  
-- **Confusion Matrix Plot:** `confusion_matrix.png`  
-
+ 
 ## ⚙️ Technologies Used  
 - Python 🐍  
 - Pandas  
