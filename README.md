@@ -1,6 +1,4 @@
-# 🩺 Diabetes Prediction Using Random Forest  
-
-## 📘 Overview  
+# 🩺 Diabetes Prediction
 Diabetes is a chronic health condition that affects how the body processes blood sugar (glucose). Early prediction of diabetes can help in timely treatment and lifestyle changes.  
 This project uses **Machine Learning** to predict whether a person is diabetic or not based on various medical parameters.  
 
